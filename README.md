@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="https://github.com/Habita11">
-  <img height="150em" src="https://saaslyft.com/wp-content/uploads/2023/02/app-developers-in-yamunanagar.png" alt="Mohammed Habita(Mobile Developer)" />
+  <img height="300em" src="https://saaslyft.com/wp-content/uploads/2023/02/app-developers-in-yamunanagar.png " alt="Mohammed Habita(Mobile Developer)" />
   </a>
   <h1 align="center">Hi there 👋 I'm Mohammed Habita</h1>
 </div>
