@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/Habita11">
-  <img height="150em" src="https://i.ibb.co/60qYv1B/glowing-code-with-blue-light-2x.png" alt="Habita11's GitHub Profile Header" />
+  <img height="150em" src="https://i.ibb.co/60qYv1B/glowing-code-with-blue-light-2x.png" alt="Mohammed Habita(Mobile Developer)" />
   </a>
   <h1 align="center">Hi there 👋 I'm Mohammed Habita</h1>
 </div>
 
 <div align="center">
-  <p>I'm a passionate developer with a love for building things. I specialize in mobile application development using Flutter/Dart and I'm always eager to learn and explore new technologies.</p>
+  <p>I'm a passionate developer with a love for building things. I specialize in mobile application development using Flutter/Dart/jetpack compose/kotlin and I'm always eager to learn and explore new technologies.</p>
 </div>
 
 <br>
@@ -21,6 +21,7 @@
 
 Here are some of the projects I've been working on:
 
+- **Science Hub**: An educational/courses application built with Flutter.
 - **E-commerce**: A public repository for an e-commerce application built with Dart.
 - **hospital_system**: A public repository for a hospital management system.
 - **MediaPlayer**: A public repository for a media player application.
