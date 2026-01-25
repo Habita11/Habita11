@@ -34,7 +34,7 @@ I don't just write code; I build ecosystems. Here is the stack I use to deliver 
 
 | **Core Mobile** | **State Management & Arch** | **Backend & Data** | **Tools & DevOps** |
 |:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" /> | <img src="https://img.shields.io/badge/-BLoC-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Riverpod-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Clean%20Arch-success?style=flat"/> | <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman" /> |
+| <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" /> | <img src="https://img.shields.io/badge/-BLoC-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Cubit-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Clean%20Arch-success?style=flat"/> | <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman" /> |
 
 <br />
 
