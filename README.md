@@ -1,79 +1,65 @@
-
 <div align="center">
-  <a href="https://github.com/Habita11">
-  <img height="300em" src="https://saaslyft.com/wp-content/uploads/2023/02/app-developers-in-yamunanagar.png " alt="Mohammed Habita(Mobile Developer)" />
-  </a>
-  <h1 align="center">Hi there 👋 I'm Mohammed Habita</h1>
-</div>
-
-<div align="center">
-  <p>I'm a passionate developer with a love for building things. I specialize in mobile application development using Flutter/Dart/jetpack compose/kotlin and I'm always eager to learn and explore new technologies.</p>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Habita11&label=Profile%20views&color=0e75b6&style=flat" alt="Habita11's Profile Views" />
-</div>
-
-<br>
-
-## 🚀 My Recent Projects
-
-Here are some of the projects I've been working on:
-
-- **Science Hub**: An educational/courses application built with Flutter.
-- **E-commerce**: A public repository for an e-commerce application built with Dart.
-- **hospital_system**: A public repository for a hospital management system.
-- **MediaPlayer**: A public repository for a media player application.
-- **MyStore**: A public repository for a store application built with Kotlin.
-- **problem_solving**: A public repository dedicated to problem-solving.
-- **Restaurants**: A public repository for a restaurant application.
-
-You can find more of my work in my repositories.
-
-## 🛠️ My Tech Stack
-
-### Languages & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
-
-### Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Habita11&show_icons=true&theme=vue-dark&count_private=true" alt="Habita11's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habita11&layout=compact&theme=vue-dark" alt="Habita11's Top Languages" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Habita11&theme=nord&no-frame=true&no-bg=true" alt="Habita11's GitHub Trophies" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Mohammed+Habita;Senior+Mobile+Engineer;Flutter+%26+Native+Android+Expert;Architecting+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
-## 🌐 Connect with me
-
-<p align="center">
+<div align="center">
+  <p>
+    <b>Mobile Application Engineer</b> specialized in building high-performance applications with 
+    <b>Flutter, Dart, Kotlin, and Jetpack Compose</b>.
+  </p>
+  <p>
+    I focus on <i>Clean Architecture</i>, intuitive UI/UX, and writing scalable, maintainable code.
+  </p>
+  
   <a href="mailto:mohammedhabitadev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Connect-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/mohammedhabita/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Habita-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://github.com/Habita11">
+    <img src="https://img.shields.io/github/followers/Habita11?label=Follow&style=social" alt="GitHub" />
+  </a>
+</div>
 
-</p>
+<br />
 
 ---
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
+
+### 🛠️ Technical Expertise
+
+I don't just write code; I build ecosystems. Here is the stack I use to deliver production-grade software:
+
+| **Core Mobile** | **State Management & Arch** | **Backend & Data** | **Tools & DevOps** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" /> | <img src="https://img.shields.io/badge/-BLoC-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Riverpod-02569B?style=flat&logo=flutter"/> <br> <img src="https://img.shields.io/badge/-Clean%20Arch-success?style=flat"/> | <img src="https://skillicons.dev/icons?i=firebase,sqlite,mysql" /> | <img src="https://skillicons.dev/icons?i=git,github,figma,postman" /> |
+
+<br />
+
+### 🚀 Featured Projects
+
+A selection of my recent work demonstrating complex logic and UI implementation:
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **Science Hub** | An advanced educational platform for course management and e-learning. | `Flutter` `Dart` `Clean Arch` |
+| **Hospital System** | A comprehensive management system for healthcare workflows and patient data. | `Flutter` `Firebase` |
+| **Al matjar App** | A fully functional shopping application with cart and payment logic. | `Dart` `State Management` |
+| **MyStore** | A native Android store application showcasing modern Android development. | `Kotlin` `MVVM` |
+
+
+<br />
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Habita11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Habita11's Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Habita11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="
