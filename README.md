@@ -44,11 +44,11 @@ A selection of my recent work demonstrating complex logic and UI implementation:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
+| **Al matjar App** | A fully functional shopping application with cart and payment logic. | `Dart` `State Management` |
 | **Science Hub** | An advanced educational platform for course management and e-learning. | `Flutter` `Dart` `Clean Arch` |
 | **Hospital System** | A comprehensive management system for healthcare workflows and patient data. | `Flutter` `Firebase` |
-| **Al matjar App** | A fully functional shopping application with cart and payment logic. | `Dart` `State Management` |
 | **MyStore** | A native Android store application showcasing modern Android development. | `Kotlin` `MVVM` |
-
+| **FitnessX App** | An android app for fitness. | `Kotlin` `xml` |
 
 <br />
 
